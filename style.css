@@ -1,0 +1,74 @@
+/*
+Name : Zoho. Sign Up Form
+Created On : World WIll Web (https://worldwillweb.com)
+Creator : Mohsen Shahrivar
+Date : 24.04.2021
+
+Color Pallet
+*/
+
+:root {
+    --whiteyellow: #f0e7df;
+    --black: #000000;
+}
+
+/*
+
+
+
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--whiteyellow);
+}
+
+body, body input, body textarea {
+    font-family: "KoHo", Poppins;
+}
+
+
+.bg-color-white-yellow {
+    background-color: var(--whiteyellow);
+}
+.bg-color-black {
+    background-color: var(--black);
+}
+
+
+.color-white-yellow {
+    color: var(--whiteyellow);
+}
+.color-black {
+    color: var(--black);
+}
+
+
+.border-color-white-yellow {
+    border: var(--whiteyellow);
+}
+.border-color-black {
+    border: var(--black);
+}
+
+
+.font-weight-100 {
+    font-weight: 100;
+}
+.font-weight-300 {
+    font-weight: 300;
+}
+.font-weight-500 {
+    font-weight: 500;
+}
+.font-weight-700 {
+    font-weight: 700;
+}
+.font-weight-900 {
+    font-weight: 900;
+}
